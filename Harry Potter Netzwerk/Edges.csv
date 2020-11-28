@@ -1,0 +1,29 @@
+from,to,weight
+HP,Dumbledore,3
+HP,Hagrid,3
+HP,Ron,3
+HP,Hermine,3
+HP,Dudley,1
+HP,Draco Malfoy,1
+HP,Voldemort,1
+Voldemort,HP,1
+Voldemort,Dumbledore,1
+Draco Malfoy,HP,1
+Draco Malfoy,Hermine,1
+Draco Malfoy,Ron,1
+Dudley,HP,1
+Ron,HP,3
+Ron,Hermine,3
+Ron,Hagrid,2
+Ron,Draco Malfoy,1
+Hermine,HP,3
+Hermine,Ron,3
+Hermine,Draco Malfoy,1
+Hermine,Hagrid,2
+Hagrid,HP,3
+Hagrid,Dumbledore,3
+Hagrid,Hermine,2
+Hagrid,Ron,2
+Dumbledore,HP,3
+Dumbledore,Hagrid,3
+Dumbledore,Voldemort,1
