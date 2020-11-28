@@ -1,11 +1,11 @@
 from,to,weight
 HP,D,3
-HP,Ha ,3
+HP,Ha,3
 HP,R,3
-HP,He ,3
+HP,He,3
 HP,DD,1
 HP,M,1
-HP,V ,1
+HP,V,1
 V,HP,1
 V,D,1
 M,HP,1
@@ -23,7 +23,7 @@ He,Ha,2
 Ha,HP,3
 Ha,D,3
 Ha,He,2
-Ha,R ,2
+Ha,R,2
 D,HP,3
 D,Ha,3
-D,V ,1
+D,V,1
